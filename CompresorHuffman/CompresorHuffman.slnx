@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CompresorHuffman/CompresorHuffman.vcxproj" Id="bbfa3554-5df1-4037-83b0-d22f068b5149" />
+</Solution>
